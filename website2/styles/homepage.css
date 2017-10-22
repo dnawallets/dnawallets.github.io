@@ -1,0 +1,30 @@
+nav {
+	background-color:lightblue;
+}
+
+.navbar-brand.ron-title {
+	color:white;
+}
+
+.nav-item .nav-link.nav-menu-item {
+	color: white;
+}
+
+body {
+	background: url(../imgs/dna.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+
+.title-text {
+	font-size: 96px;
+	font-family: Futura;
+	color: black;
+	margin-top: 35vh;
+	padding-right: 15vw;
+	padding-left: 15vw
+}
+
+.justify {
+    text-align: center;
+    text-justify: inter-word;
+}

@@ -1,0 +1,29 @@
+.profile-pic{
+	max-width: 100%
+}
+
+.icon{
+	color: grey;
+	margin: 0 20px;
+}
+
+.colour{
+	color: grey
+}
+
+.justify {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.size{
+	max-width: 100%;
+}
+
+.card{
+	margin-top: 58px;
+}
+
+.card-title: hover{
+	color: #36bcab;
+}

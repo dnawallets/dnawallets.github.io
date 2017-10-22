@@ -1,0 +1,11 @@
+nav {
+	background-color:lightblue;
+}
+
+.navbar-brand.ron-title {
+	color:white;
+}
+
+.nav-item .nav-link.nav-menu-item {
+	color: black;
+}
